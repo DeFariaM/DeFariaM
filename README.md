@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**DeFariaM/DeFariaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Maria De Faria
 
-Here are some ideas to get you started:
+Who am I?
+I'm a full stack developer. For many years i've been interested in the technologies and in the 2022 started my trip in this amazing world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What do I do? 
+Currently I create academic and personal projects for my improvement as a web developer. JavaScript is my first learned language, but hopefully it's not the last.
+
+What am I looking for?
+I'm looking for new opportunities to create high impact code, to help people to solve their problems using technological solutions and use these oportunities to grow up in this world.
+
+What techonologies do I use? 
+JavaScript - PostgreSQL - Sequelize - NodeJS - Express - Firebase - ReactJS - Redux - Redux Toolkit - Tailwind CSS
+
