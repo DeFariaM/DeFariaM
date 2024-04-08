@@ -14,6 +14,11 @@ I'm looking for new opportunities to create high impact code, to help people to 
 ## What techonologies do I use? 
 JavaScript - PostgreSQL - Sequelize - NodeJS - Express - Firebase - ReactJS - Redux - Redux Toolkit - Tailwind CSS
 
+##
 [![DeFariaM's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeFariaM)](https://github.com/anuraghazra/github-readme-stats)
+
+##
+[![trophy](https://github-profile-trophy.vercel.app/?username=DeFariaM)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
